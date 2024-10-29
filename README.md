@@ -6,4 +6,4 @@
 - 🌱 **Learning**: Advanced Java, Spring Boot and NodeJs
 
 ## 📫 Let's connect:
-[Email](ubedpathan818@gmail.com)
+Email := ubedpathan818@gmail.com
