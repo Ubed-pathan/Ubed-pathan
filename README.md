@@ -1,9 +1,7 @@
-# Hi there, I'm PATHAN UBEDULLAKHAN HASANKHAN 👋
+# Hi there, I'm Ubed pathan👋
 
 **Third-year CS student at M. S. Bidve Engineering College, Latur-413512 | Java and NodeJs Backend Developer in training**
 
-- 🛠 **Skills**: Java, HTML, CSS, JavaScript, Spring Boot, NodeJs, ReactJs, ExpressJs
-- 🌱 **Learning**: Advanced Java, Spring Boot and NodeJs
+- 🛠 **Skills**: Java, HTML, CSS
 
-## 📫 Let's connect:
-Email := ubedpathan818@gmail.com
+
