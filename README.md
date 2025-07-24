@@ -101,17 +101,33 @@ Current Focus:
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubed-pathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubed-pathan&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubed-pathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubed-pathan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubed-pathan&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Ubed-pathan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubed-pathan&theme=tokyo-night&hide_border=true&border_radius=15" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubed-pathan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+<!-- Alternative GitHub Stats if above doesn't work -->
+<div align="center">
+  
+### 📈 Alternative Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubed-pathan&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubed-pathan&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ubed-pathan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
 </div>
 
 ---
