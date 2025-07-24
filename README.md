@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ubed-pathan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ubed-pathane?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Ubed-pathan?style=social" alt="Followers" />
 </div>
 
 ---
