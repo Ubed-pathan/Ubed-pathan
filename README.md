@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Ubed-pathan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ubed-pathane?style=social" alt="Followers" />
 </div>
 
 ---
@@ -133,11 +133,11 @@ Experience Timeline:
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubed-pathan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubed-pathan&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---
