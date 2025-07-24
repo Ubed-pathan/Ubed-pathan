@@ -22,14 +22,7 @@
 Name: Ubedullakhan Hasankhan Pathan
 Location: 📍 Latur, Maharashtra, India
 Education: 🎓 B.Tech CSE @ M.S. Bidve Engineering College
-Academic Year: 📚 Third Year Student (GPA: 8.43/10.00)
-Phone: 📱 +91-8180085961
 Email: 📧 ubedpathan818@gmail.com
-
-Current Role:
-  - 💼 Freelance Web Developer (Sept 2024 - Present)
-  - 🏆 Delivered 3+ Projects Successfully
-  - 🌟 Former Web Development Intern @ CodSoft
 
 Expertise:
   - 🔥 Full Stack Development (Java + MERN)
@@ -43,11 +36,6 @@ Problem Solving:
   - 🏅 Strong Algorithmic Thinking
   - 📈 Consistent Growth Mindset
 
-Current Focus:
-  - 🌩️ Advanced System Design
-  - 🐳 Docker & Containerization
-  - ☁️ Cloud Technologies (Learning)
-  - 🔄 Microservices Architecture
 ```
 
 <br clear="right"/>
@@ -167,15 +155,6 @@ Current Focus:
 - 🔒 **Security**: JWT authentication
 - 📱 **Features**: Real-time messaging, media sharing
 - 👥 **Status**: Online/offline user tracking
-
-</td>
-<td width="50%">
-
-**🎯 More Projects Coming Soon...**
-- 🔥 **Currently Building**: E-commerce platform
-- 🌟 **Next Up**: Weather forecasting app
-- 💡 **Ideas**: AI-powered code reviewer
-- 🚀 **Always**: Open to collaborations!
 
 </td>
 </tr>
