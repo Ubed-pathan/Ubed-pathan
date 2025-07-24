@@ -122,9 +122,6 @@ Current Focus:
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%202&ext=heatmap&border=0&radius=15)
 
-### 🎖️ Certifications
-[![NPTEL Java](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-success?style=for-the-badge&logo=java&logoColor=white)](https://nptel.ac.in)
-
 </div>
 
 ---
@@ -135,9 +132,7 @@ Current Focus:
 
 [![CraftlyAI](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=CraftlyAI&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/CraftlyAI)
 [![Nexore](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=Nexore&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/Nexore)
-
 [![Talkify](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=Talkify&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/Talkify)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=Portfolio&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/Portfolio)
 
 </div>
 
@@ -186,29 +181,6 @@ Current Focus:
 </tr>
 </table>
 
----
-
-## 📈 Experience Timeline
-
-<div align="center">
-
-```mermaid
-timeline
-    title Professional Journey
-    2024 Q3    : Web Development Intern
-               : CodSoft (Remote)
-               : Frontend Development Focus
-    2024 Q4    : Freelance Developer
-               : 3+ Projects Delivered
-               : Full Stack Solutions
-    2025       : Advanced Learning
-               : System Design
-               : DevOps & Cloud
-```
-
-</div>
-
----
 
 ## 🌐 Connect & Collaborate
 
