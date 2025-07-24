@@ -76,30 +76,19 @@ const ubedPathan = {
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%202&ext=heatmap)
 
 ### GitHub Analytics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ubed-pathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubed-pathan&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
-### Skills Progress Bars
-```text
-Java Spring Boot  ████████████████████░░  85%
-React/Next.js     ███████████████████░░░  80%
-Node.js/Express   ██████████████████░░░░  75%
-MongoDB/SQL       ████████████████░░░░░░  70%
-Problem Solving   ███████████████████░░░  82%
-System Design     ████████████░░░░░░░░░░  55%
-```
-
----
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![CraftlyAI](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=craftlyai&theme=tokyonight)](https://github.com/your-username/craftlyai)
-[![Nexore](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=nexore&theme=tokyonight)](https://github.com/your-username/nexore)
-[![Talkify](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=talkify&theme=tokyonight)](https://github.com/your-username/talkify)
+[![CraftlyAI](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=craftlyai&theme=tokyonight)](https://github.com/Ubed-pathan/craftlyai)
+[![Nexore](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=nexore&theme=tokyonight)](https://github.com/Ubed-pathan/nexore)
+[![Talkify](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=talkify&theme=tokyonight)](https://github.com/Ubed-pathan/talkify)
 
 </div>
 
@@ -111,24 +100,6 @@ System Design     ████████████░░░░░░░░�
 | **Nexore** | Java, Spring Boot, React, Docker | Scalable social media platform with real-time features | [Demo](link) • [Code](link) |
 | **Talkify** | MERN, TypeScript, WebSocket | Real-time chat application with media sharing | [Demo](link) • [Code](link) |
 
----
-
-## 💼 Experience & Achievements
-
-```yaml
-Current Status:
-  📚 Third-year CS Student (GPA: 8.43/10)
-  💼 Freelance Web Developer (3+ projects delivered)
-  🧩 200+ LeetCode problems solved
-  🏆 NPTEL Java Programming Certified
-
-Experience Timeline:
-  2024-Present: Freelance Full Stack Developer
-  Aug-Sep 2024: Web Development Intern @ CodSoft
-  2023-Present: Continuous Learning & Building
-```
-
----
 
 ## 📈 GitHub Activity
 
