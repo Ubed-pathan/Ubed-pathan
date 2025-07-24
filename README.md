@@ -7,8 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ubed-pathan&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ubed-pathan?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </div>
 
@@ -114,58 +112,11 @@ Problem Solving:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![CraftlyAI](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=CraftlyAI&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/CraftlyAI)
-[![Nexore](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=Nexore&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/Nexore)
-[![Talkify](https://github-readme-stats.vercel.app/api/pin/?username=Ubed-pathan&repo=Talkify&theme=tokyonight&border_radius=15)](https://github.com/Ubed-pathan/Talkify)
-
-</div>
-
-### 🌟 Project Showcase
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🤖 CraftlyAI - AI Career Assistant**
-- 🔧 **Tech**: Next.js 15, Prisma, PostgreSQL, Gemini AI
-- 📝 **Features**: AI-powered resume builder, interview prep
-- 🔐 **Auth**: Clerk authentication & Zod validation
-- ✨ **UI**: shadcn/UI components & markdown editor
-
-</td>
-<td width="50%">
-
-**📱 Nexore - Social Media Platform**
-- 🔧 **Tech**: Java, Spring Boot, React, Docker
-- 📊 **Database**: PostgreSQL for relational data
-- 🎨 **Features**: Posts, likes, comments, follow system
-- ☁️ **Media**: Cloudinary integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💬 Talkify - Real-time Chat App**
-- 🔧 **Tech**: MERN Stack, TypeScript, WebSocket
-- 🔒 **Security**: JWT authentication
-- 📱 **Features**: Real-time messaging, media sharing
-- 👥 **Status**: Online/offline user tracking
-
-</td>
-</tr>
-</table>
-
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubedullakhan-pathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubed-pathan-35a715242)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ubed-pathan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubedpathan818@gmail.com)
